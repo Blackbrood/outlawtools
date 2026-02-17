@@ -35,7 +35,7 @@ class Colors:
 
 # ==================== CONFIGURATION ====================
 # Bot Token - @BotFather se le lo
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # ← YAHAN APNA BOT TOKEN DALO
+BOT_TOKEN = "8527373391:AAFHOPvv9Xwsx5uFP3Rh9lPfTvMKsVaSg-Q"  # ← YAHAN APNA BOT TOKEN DALO
 
 # Accounts file
 ACCOUNTS_FILE = "report_accounts.json"
